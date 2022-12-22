@@ -1,4 +1,4 @@
-import { Container, FormContainer, Card } from './styles/styles';
+import { Container, FormContainer, Card } from '../styles/styles';
 
 import { BsPlusLg } from 'react-icons/bs';
 
